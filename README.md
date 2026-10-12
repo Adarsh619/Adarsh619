@@ -6,7 +6,7 @@
 
 **React.js • Next.js • TypeScript • Node.js • REST APIs • SQL • AI-Integrated Applications**
 
-Building practical full-stack applications, strengthening software engineering fundamentals, and integrating modern AI capabilities into real projects.
+Building practical full-stack applications and integrating modern AI capabilities into real-world software projects.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,24 +24,25 @@ Building practical full-stack applications, strengthening software engineering f
 
 I'm a Computer Science graduate focused on building modern **frontend, full-stack, and AI-integrated applications**.
 
-My current development work combines responsive frontend interfaces with backend services, APIs, databases, authentication, data processing, and practical AI capabilities.
+My current work combines responsive frontend interfaces with backend services, REST APIs, databases, authentication, and practical AI capabilities.
 
-I learn primarily by building projects and gradually increasing their complexity — from JavaScript applications and interactive web interfaces to full-stack systems and Retrieval-Augmented Generation (RAG) applications.
+I learn primarily by building real projects and gradually increasing their complexity — from JavaScript applications and interactive web interfaces to full-stack systems and Retrieval-Augmented Generation (RAG) applications.
 
-Alongside software development, I'm strengthening my understanding of **Generative AI, LLMs, RAG, embeddings, vector search, prompt engineering, AI agents, and automation**, with a focus on applying these concepts inside real software rather than learning them only theoretically.
+I'm currently strengthening my understanding of **React.js, Next.js, Node.js, REST APIs, SQL, Supabase, RAG, embeddings, vector search, prompt engineering, and AI workflows**.
+
+My goal is to build software that combines strong development fundamentals with useful AI-powered features rather than treating AI as a separate skill.
 
 ---
 
 ## 🚀 Currently Building
 
-- Developing a **RAG Knowledge Assistant** for working with private documents and grounded AI responses
-- Building document ingestion, PDF text extraction, chunking and metadata pipelines
-- Progressing toward embeddings, vector search, retrieval and LLM-based answer generation
-- Strengthening **Node.js, REST APIs, backend architecture and database integration**
-- Building authentication and persistent data workflows with tools such as Supabase
-- Improving React.js, Next.js and reusable component architecture
-- Exploring AI agents, tool-calling and workflow automation for future projects
-- Building portfolio projects with production-oriented structure, testing and documentation
+- Developing and improving **full-stack applications** with React.js, Next.js, TypeScript, Node.js, APIs, and databases
+- Building a **RAG Knowledge Assistant** with document processing, retrieval, embeddings, vector search, and grounded AI responses
+- Strengthening backend architecture, authentication, persistent data, and REST API development
+- Improving reusable frontend components, responsive interfaces, state management, and application structure
+- Integrating practical AI capabilities into web applications rather than treating AI as a standalone feature
+- Exploring **AI agents, tool calling, and workflow automation** for upcoming projects
+- Deploying and testing projects so they can be demonstrated through real public applications
 
 ---
 
@@ -49,21 +50,21 @@ Alongside software development, I'm strengthening my understanding of **Generati
 
 ### 🧠 RAG Knowledge Assistant
 
-A full-stack AI-focused application being built to allow users to work with private documents through a Retrieval-Augmented Generation pipeline.
+A full-stack AI application designed to work with private documents using a Retrieval-Augmented Generation (RAG) workflow.
 
-The project currently includes document handling, PDF text extraction, secure ownership checks, configurable text chunking, chunk metadata and a chunk inspection interface.
+The project includes document ingestion, PDF text extraction, text chunking, metadata handling, retrieval-oriented processing, and the foundation for grounded AI responses.
 
-The next stages focus on **embeddings, vector storage, semantic retrieval and grounded LLM responses**.
+**Tech:** Next.js • TypeScript • FastAPI • Supabase • SQL • RAG
 
-**Focus:** Full-Stack Development • RAG • Document Processing • Backend Logic • AI Integration
+**Focus:** Full-Stack Development • Document Processing • RAG • AI Integration
 
 ---
 
 ### 🤖 AI Prompt Lab
 
-An AI-focused prompt playground designed for experimenting with prompts, reusable templates, model settings and prompt-management workflows.
+An AI-focused prompt playground for experimenting with prompts, reusable templates, model settings, and prompt-management workflows.
 
-Built with a modern full-stack structure and designed for integration with authentication, persistent user data and live LLM responses.
+The application is structured for authentication, persistent user data, and live AI response integration.
 
 **Tech:** Next.js • React.js • TypeScript • Tailwind CSS • Supabase
 
@@ -73,17 +74,17 @@ Built with a modern full-stack structure and designed for integration with authe
 
 ### 🗺️ Aizen Map
 
-A mobile-first location discovery application featuring interactive maps, search, location-based exploration, filtering, saved places and source-linked local listings.
+A mobile-first location discovery application with interactive maps, search, filtering, saved places, location details, and directions.
 
 **Tech:** Next.js • React.js • TypeScript • Tailwind CSS • Leaflet • OpenStreetMap
 
-**Focus:** Interactive UI • Location-Based Applications • Frontend Architecture
+**Focus:** Interactive UI • Mapping • Location-Based Applications
 
 ---
 
 ### 🥗 Calorie Tracker
 
-A JavaScript application built to strengthen frontend fundamentals, application logic, DOM manipulation, user input handling and responsive interface development.
+A JavaScript application built to strengthen frontend fundamentals, application logic, DOM manipulation, user input handling, and responsive UI development.
 
 **Tech:** JavaScript • HTML5 • CSS3
 
@@ -109,7 +110,7 @@ A JavaScript application built to strengthen frontend fundamentals, application 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Databases & Data
+### Databases & Backend Services
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -125,9 +126,9 @@ A JavaScript application built to strengthen frontend fundamentals, application 
 
 ### AI & Applied AI
 
-`Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Embeddings` • `Vector Search`
+`Generative AI` • `LLMs` • `Prompt Engineering` • `RAG` • `Embeddings` • `Vector Search`
 
-Currently expanding into:
+**Currently exploring:**
 
 `AI Agents` • `Agentic Workflows` • `Tool Calling` • `Workflow Automation`
 
@@ -150,20 +151,21 @@ Currently expanding into:
 
 ## 💡 What I'm Strengthening
 
-- Frontend architecture and reusable component design
-- React.js and Next.js application development
-- State management and application logic
+- React.js and Next.js application architecture
+- Reusable component design and state management
 - Responsive and accessible UI development
 - Node.js and backend fundamentals
-- REST API design and integration
-- Authentication and authorization
-- SQL and database integration
+- REST API design, integration and error handling
+- Authentication, authorization and user data flows
+- SQL, databases and persistent storage
+- Supabase integration and backend services
 - Document processing and data pipelines
-- RAG architecture and retrieval workflows
-- Error handling, loading states and validation
-- Automated testing and application reliability
+- RAG architecture, embeddings and retrieval workflows
+- Vector search and grounded AI responses
+- Testing, validation and application reliability
 - Git/GitHub workflows and meaningful commits
-- Building projects from **idea → architecture → implementation → testing → deployment**
+- Deployment and production-ready project structure
+- Building complete applications from **idea → architecture → implementation → testing → deployment**
 
 ---
 
@@ -181,13 +183,19 @@ Rather than treating AI as a separate field from software development, my goal i
 
 ## 🤖 AI-Assisted Development
 
-I also use AI development tools as part of my software engineering workflow for research, brainstorming, debugging, architecture discussions, code review and documentation.
+I use AI development tools to support research, debugging, architecture discussions, code review, documentation, and faster iteration while building projects.
 
 **Tools I work with:**
 
-`OpenAI Codex` • `Claude Code` • `Cursor` • `ChatGPT`
+`ChatGPT` • `OpenAI Codex` • `Claude Code` • `Cursor`
 
-I use these tools to improve development efficiency while continuing to understand the code, architecture, trade-offs and engineering decisions behind what I build.
+I use these tools as development assistants rather than substitutes for understanding the code. My focus is on learning the architecture, logic, APIs, data flow, and engineering decisions behind each project I build.
+
+Alongside AI-assisted development, I'm also learning how to integrate AI capabilities directly into applications through:
+
+`LLMs` • `Prompt Engineering` • `RAG` • `Embeddings` • `Vector Search` • `Grounded AI Responses`
+
+I plan to expand this further into **AI agents, tool calling, and automated workflows** as my projects progress.
 
 ---
 
@@ -195,29 +203,39 @@ I use these tools to improve development efficiency while continuing to understa
 
 **Learn → Build → Test → Ship → Improve**
 
-Currently focused on becoming job-ready for opportunities across:
+Currently focused on becoming job-ready for opportunities in:
 
 **Frontend Development • Full-Stack Development • Software Development • AI-Integrated Application Development**
 
-My priority is building stronger software engineering fundamentals while creating projects that demonstrate practical frontend, backend, database, API and applied-AI skills.
+My priority is to keep strengthening practical software engineering skills across **React.js, Next.js, Node.js, REST APIs, databases, authentication, deployment, and applied AI**.
+
+I’m especially interested in projects where modern web development connects with **LLMs, RAG, intelligent search, automation, and AI-powered user experiences**.
 
 ---
 
 ## 🔮 What's Next
 
-Future projects will continue increasing in complexity, including:
+I'm continuing to build projects that combine **full-stack development, backend systems, and practical AI integration**.
 
-- Complete production-style full-stack applications
-- RAG systems with vector databases
+Upcoming areas of focus include:
+
+- Production-style full-stack applications
+- RAG systems with embeddings and vector databases
 - AI agents and tool-calling workflows
-- n8n-based automation
+- n8n-based workflow automation
 - Autonomous and semi-autonomous AI workflows
 - SaaS-style applications
 - External API integrations
-- Deployment and CI/CD workflows
+- Authentication and role-based access
+- CI/CD and deployment workflows
+- Cloud deployment and production architecture
+
+The goal is to gradually move from individual projects toward more complete, real-world software systems.
 
 ---
 
 ## 🔗 Connect
+
+I'm open to opportunities in **Frontend Development, Full-Stack Development, Software Development, and AI-Integrated Application Development**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Pradhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshpradhan02)
