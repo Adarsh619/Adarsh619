@@ -4,7 +4,7 @@
 
 ### Frontend & Full-Stack Developer
 
-**React.js • Next.js • TypeScript • Node.js • REST APIs • SQL • AI-Integrated Applications**
+**Full-Stack Developer | React.js • Next.js • Node.js • Typescript • Supabase | Building Practical AI-Integrated Projects**
 
 Building practical full-stack applications and integrating modern AI capabilities into real-world software projects.
 
