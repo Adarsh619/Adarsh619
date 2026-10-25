@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="6 projects built, 2 live deployments, 384-dimensional vectors in my RAG search, 3 professional roles">
+<defs>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#7c8cff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="spot" cx="0" cy="0" r="260" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#7c8cff" stop-opacity=".28"/><stop offset="1" stop-color="#7c8cff" stop-opacity="0"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1200 170;0 170;1200 0;0 0" dur="14s" repeatCount="indefinite"/>
+</radialGradient>
+</defs>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g class="t" style="animation-delay:0.00s">
+  <rect x="0.5" y=".5" width="284.0" height="169" rx="18" fill="#0d1018" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="0.5" y=".5" width="284.0" height="169" rx="18" fill="url(#spot)" opacity=".9"/>
+  <text x="142.5" y="88" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="url(#sg)">6</text>
+  <text x="142.5" y="124" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#9aa4b2">Projects built</text>
+</g><g class="t" style="animation-delay:0.15s">
+  <rect x="305.5" y=".5" width="284.0" height="169" rx="18" fill="#0d1018" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="305.5" y=".5" width="284.0" height="169" rx="18" fill="url(#spot)" opacity=".9"/>
+  <text x="447.5" y="88" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="url(#sg)">2</text>
+  <text x="447.5" y="124" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#9aa4b2">Live deployments</text>
+</g><g class="t" style="animation-delay:0.30s">
+  <rect x="610.5" y=".5" width="284.0" height="169" rx="18" fill="#0d1018" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="610.5" y=".5" width="284.0" height="169" rx="18" fill="url(#spot)" opacity=".9"/>
+  <text x="752.5" y="88" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="url(#sg)">384-d</text>
+  <text x="752.5" y="124" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#9aa4b2">Vectors in my RAG search</text>
+</g><g class="t" style="animation-delay:0.45s">
+  <rect x="915.5" y=".5" width="284.0" height="169" rx="18" fill="#0d1018" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="915.5" y=".5" width="284.0" height="169" rx="18" fill="url(#spot)" opacity=".9"/>
+  <text x="1057.5" y="88" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="url(#sg)">3</text>
+  <text x="1057.5" y="124" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#9aa4b2">Professional roles</text>
+</g>
+</svg>

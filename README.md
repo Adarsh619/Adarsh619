@@ -1,152 +1,78 @@
-<!-- Header -->
+<!-- Animated SVGs in ./assets are generated; effects are inspired by React Bits (Aurora, Dot Grid, Star Border, Rotating Text, Logo Loop) -->
+<a href="https://adarsh619.github.io/my-portfolio/">
+  <img src="./assets/hero.svg" alt="Hi, I'm Adarsh Pradhan. I build RAG apps, dashboards, map experiences and clean UIs. Frontend & Full-Stack Developer, open to roles in Bengaluru." width="100%" />
+</a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d51,100:1f6feb&height=190&section=header&text=Adarsh%20Pradhan&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Frontend%20and%20Full-Stack%20Developer%20%7C%20AI-integrated%20web%20apps&descSize=16&descAlignY=58" alt="Adarsh Pradhan — Frontend & Full-Stack Developer" width="100%" />
+  <a href="https://adarsh619.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=7c8cff" alt="Portfolio" /></a>
+  <a href="https://adarsh619.github.io/my-portfolio/assets/Adarsh_Pradhan_Resume.pdf"><img src="https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/adarshpradhan02"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="https://aizenmap.netlify.app/"><img src="https://img.shields.io/badge/Live_·_Aizen_Map-161b22?style=for-the-badge&logo=netlify&logoColor=22d3ee" alt="Aizen Map live demo" /></a>
+</p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 👋 About me
+
+I build web apps that are **fast, clear and easy to use**, and I wire practical AI into them. My favourite so far is **Groundwork**: a private assistant that answers questions from your own PDFs and shows the exact page each answer came from — with the whole RAG pipeline written in TypeScript, running on a local model.
+
+Before coding full-time I worked in **tech support and IT recruitment**, so I'm used to understanding what people actually need and explaining things clearly. I hold a **B.Tech in Computer Science** and I'm now doing my **MCA**.
+
+<img src="./assets/stats.svg" alt="6 projects built · 2 live deployments · 384-d vectors in my RAG search · 3 professional roles" width="100%" />
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/Adarsh619/RAG-Knowledge-Assistant"><img src="./assets/projects/groundwork.svg" alt="Groundwork — private PDF assistant with cited answers. Next.js, Supabase, pgvector, Ollama." width="49%" /></a>
+  <a href="https://aizenmap.netlify.app/"><img src="./assets/projects/aizen-map.svg" alt="Aizen Map — Bengaluru discovery app with a linked map and list. Live demo." width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Adarsh619/Development-projects/tree/main/Personal-Finance-Dashboard"><img src="./assets/projects/financeflow.svg" alt="FinanceFlow — spending, budgets, goals and bills dashboard. React, TypeScript, Recharts, Supabase." width="49%" /></a>
+  <a href="https://github.com/Adarsh619/Development-projects/tree/main/AI-Prompt-Lab"><img src="./assets/projects/promptlab.svg" alt="PromptLab — prompt workspace with templates, model settings and plugins." width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://adarsh619.github.io/my-portfolio/"><img src="./assets/projects/portfolio.svg" alt="Developer Portfolio — scroll animation and a 3D hero. Live site." width="49%" /></a>
+  <a href="https://github.com/Adarsh619/Development-projects/tree/main/calorie-tracker"><img src="./assets/projects/calorie-track.svg" alt="Calorie Track — daily calorie log with goals and progress ring." width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://adarsh619.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/adarshpradhan02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://aizenmap.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-Aizen_Map-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Aizen Map live demo" /></a>
-  <img src="https://img.shields.io/badge/Bengaluru,_India-30363d?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />
+  <sub>Source: <a href="https://github.com/Adarsh619/RAG-Knowledge-Assistant">Groundwork</a> · <a href="https://github.com/Adarsh619/Development-projects/tree/main/aizen-map">Aizen Map</a> · <a href="https://github.com/Adarsh619/Development-projects/tree/main/Personal-Finance-Dashboard">FinanceFlow</a> · <a href="https://github.com/Adarsh619/Development-projects/tree/main/AI-Prompt-Lab">PromptLab</a> · <a href="https://github.com/Adarsh619/my-portfolio">Portfolio</a> · <a href="https://github.com/Adarsh619/Development-projects/tree/main/calorie-tracker">Calorie Track</a></sub>
 </p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 🛠️ Tech stack
 
 <p align="center">
-  <b>React.js · Next.js · TypeScript · Node.js · Supabase · RAG</b><br />
-  I build fast, clear web apps and wire practical AI into them — like an assistant that answers from your own PDFs.
+  <sub><b>FRONTEND</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,threejs" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Three.js" />
+</p>
+<p align="center">
+  <sub><b>BACKEND & DATA</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,mysql,sqlite,python,java" alt="Node.js, FastAPI, Supabase, PostgreSQL, MySQL, SQLite, Python, Java" />
+</p>
+<p align="center">
+  <sub><b>TOOLS & DEPLOY</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,powershell,bash" alt="Git, GitHub, GitHub Actions, VS Code, Vercel, Netlify, PowerShell, Bash" />
+</p>
+<p align="center">
+  <sub><b>APPLIED AI</b></sub><br />
+  <img src="https://img.shields.io/badge/RAG-161b22?style=flat-square&logo=databricks&logoColor=7c8cff" alt="RAG" />
+  <img src="https://img.shields.io/badge/pgvector-161b22?style=flat-square&logo=postgresql&logoColor=7c8cff" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Embeddings-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-161b22?style=flat-square&logo=anthropic&logoColor=a78bfa" alt="Prompt Engineering" />
 </p>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## 👨‍💻 About Me
+## 🔭 Right now
 
-- 🎓 **CS & Engineering graduate**, now pursuing an **MCA** (Amity University Online, 2026–2028)
-- 🛠️ Building **full-stack apps** with React / Next.js frontends, REST APIs, databases and auth
-- 🧠 Focused on **applied AI**: RAG, embeddings, vector search and grounded LLM answers
-- 🤝 Background in **tech support and IT recruitment** — I know how to understand what users need and explain things clearly
-- 💼 **Open to** Frontend, Full-Stack and AI-integrated development roles
-
----
-
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Groundwork — RAG Assistant</h3>
-      <p>A private AI assistant that answers questions from your PDFs and shows exactly which page each answer came from.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>pgvector</code></p>
-      <a href="https://github.com/Adarsh619/RAG-Knowledge-Assistant">💻 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ Aizen Map</h3>
-      <p>A linked map and list of places and events in Bengaluru, with search, filters, saved picks and your live location.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Leaflet</code> <code>OpenStreetMap</code></p>
-      <a href="https://aizenmap.netlify.app/">🌐 Live demo</a> · <a href="https://github.com/Adarsh619/Development-projects/tree/main/aizen-map">💻 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✨ Developer Portfolio</h3>
-      <p>Scroll-driven animation, a 3D hero and a quick-find menu — deployed automatically with GitHub Actions.</p>
-      <p><code>Next.js</code> <code>React</code> <code>GSAP</code> <code>Three.js</code></p>
-      <a href="https://adarsh619.github.io/my-portfolio/">🌐 Live site</a> · <a href="https://github.com/Adarsh619/my-portfolio">💻 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 PromptLab</h3>
-      <p>Write, reuse and test prompts with model settings, templates and saved conversations.</p>
-      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Supabase</code></p>
-      <a href="https://github.com/Adarsh619/Development-projects/tree/main/AI-Prompt-Lab">💻 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 FinanceFlow</h3>
-      <p>Track spending, budgets and savings goals, with charts built from your own transaction data.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Recharts</code></p>
-      <a href="https://github.com/Adarsh619/Development-projects/tree/main/Personal-Finance-Dashboard">💻 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥗 Calorie Tracker</h3>
-      <p>Log meals, set a daily goal and see your progress by date.</p>
-      <p><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>localStorage</code></p>
-      <a href="https://github.com/Adarsh619/Development-projects/tree/main/calorie-tracker">💻 Code</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite,threejs" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Vite, Three.js" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend & Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,mysql,sqlite,python,java" alt="Node.js, FastAPI, Supabase, PostgreSQL, MySQL, SQLite, Python, Java" /></td>
-  </tr>
-  <tr>
-    <td><b>Tools & Deploy</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,powershell,bash" alt="Git, GitHub, GitHub Actions, VS Code, Vercel, Netlify, PowerShell, Bash" /></td>
-  </tr>
-  <tr>
-    <td><b>Applied AI</b></td>
-    <td><code>LLMs</code> <code>Prompt Engineering</code> <code>RAG</code> <code>Embeddings</code> <code>Vector Search</code> <code>pgvector</code></td>
-  </tr>
-  <tr>
-    <td><b>Also</b></td>
-    <td><code>REST APIs</code> <code>Auth</code> <code>Leaflet</code> <code>OpenStreetMap</code> <code>GSAP</code> <code>Recharts</code></td>
-  </tr>
-</table>
-
----
-
-## 🚀 Now & Next
-
-<table>
-  <tr>
-    <th width="50%">🔨 Currently building</th>
-    <th width="50%">🔭 Exploring next</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Groundwork: retrieval, citations and grounded answers</li>
-        <li>Stronger backends: auth, persistent data, REST APIs</li>
-        <li>Reusable components and cleaner app structure</li>
-        <li>Shipping projects as live, public demos</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>AI agents and tool calling</li>
-        <li>Workflow automation with n8n</li>
-        <li>SaaS-style apps with role-based access</li>
-        <li>CI/CD and cloud deployment</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>🧠 My AI engineering learning path</b></summary>
-<br />
-
-**LLM fundamentals → Prompt engineering → RAG → Embeddings → Vector search → Grounded responses → AI agents → Agentic workflows**
-
-I treat AI as part of software engineering, not a separate skill — combining it with frontends, backends, APIs and databases to build useful products.
-
-</details>
-
-<details>
-<summary><b>🤖 How I use AI dev tools</b></summary>
-<br />
-
-I work with `Claude Code` · `Cursor` · `OpenAI Codex` · `ChatGPT` for research, debugging, code review and faster iteration — as assistants, not substitutes. I make sure I understand the architecture, data flow and decisions behind everything I ship.
-
-</details>
+- 🔨 **Building:** better retrieval, citations and grounded answers in Groundwork; stronger auth and REST APIs across my apps
+- 🌱 **Exploring next:** AI agents and tool calling, n8n workflow automation, CI/CD and cloud deployment
+- 💼 **Looking for:** Frontend, Full-Stack or AI-integrated development roles — Bengaluru or remote
 
 <details>
 <summary><b>💼 Experience & education</b></summary>
@@ -164,11 +90,16 @@ I work with `Claude Code` · `Cursor` · `OpenAI Codex` · `ChatGPT` for researc
 
 </details>
 
----
+<details>
+<summary><b>🤖 How I work with AI tools</b></summary>
+<br />
 
-<p align="center">
-  <b>Learn → Build → Test → Ship → Improve</b><br />
-  Let's connect on <a href="https://www.linkedin.com/in/adarshpradhan02">LinkedIn</a> or see more on my <a href="https://adarsh619.github.io/my-portfolio/">portfolio</a>.
-</p>
+I use `Claude Code` · `Cursor` · `OpenAI Codex` · `ChatGPT` for research, debugging, code review and faster iteration — as assistants, not substitutes. I make sure I understand the architecture, data flow and decisions behind everything I ship.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0b1d51&height=110&section=footer" alt="" width="100%" />
+</details>
+
+<br />
+
+<a href="https://www.linkedin.com/in/adarshpradhan02">
+  <img src="./assets/footer.svg" alt="Thanks for stopping by. Learn, build, test, ship, improve." width="100%" />
+</a>
