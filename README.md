@@ -1,24 +1,29 @@
-<!-- Animated SVGs in ./assets are generated; effects are inspired by React Bits (Aurora, Dot Grid, Star Border, Rotating Text, Logo Loop) -->
+<!-- Animated SVGs in ./assets are generated; effects are inspired by React Bits (Aurora, Dot Grid, Star Border, Rotating Text, Logo Loop) and Vanta (NET) -->
 <a href="https://adarsh619.github.io/my-portfolio/">
-  <img src="./assets/hero.svg" alt="Hi, I'm Adarsh Pradhan. I build RAG apps, dashboards, map experiences and clean UIs. Frontend & Full-Stack Developer, open to roles in Bengaluru." width="100%" />
+  <img src="./assets/hero.svg" alt="Hi, I'm Adarsh Pradhan. I build full-stack web apps, RAG assistants, data dashboards and interactive maps. Frontend & Full-Stack Developer, open to roles in Bengaluru." width="100%" />
 </a>
 
 <p align="center">
-  <a href="https://adarsh619.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=7c8cff" alt="Portfolio" /></a>
-  <a href="https://adarsh619.github.io/my-portfolio/assets/Adarsh_Pradhan_Resume.pdf"><img src="https://img.shields.io/badge/Resume-161b22?style=for-the-badge&logo=readdotcv&logoColor=a78bfa" alt="Resume" /></a>
-  <a href="https://www.linkedin.com/in/adarshpradhan02"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
-  <a href="https://aizenmap.netlify.app/"><img src="https://img.shields.io/badge/Live_·_Aizen_Map-161b22?style=for-the-badge&logo=netlify&logoColor=22d3ee" alt="Aizen Map live demo" /></a>
+  <a href="https://adarsh619.github.io/my-portfolio/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="62" /></a>
+  <a href="https://adarsh619.github.io/my-portfolio/assets/Adarsh_Pradhan_Resume.pdf"><img src="./assets/btn-resume.svg" alt="Resume" height="62" /></a>
+  <a href="https://www.linkedin.com/in/adarshpradhan02"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="62" /></a>
+  <a href="https://aizenmap.netlify.app/"><img src="./assets/btn-live.svg" alt="Live demo: Aizen Map" height="62" /></a>
 </p>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 👋 About me
 
-I build web apps that are **fast, clear and easy to use**, and I wire practical AI into them. My favourite so far is **Groundwork**: a private assistant that answers questions from your own PDFs and shows the exact page each answer came from — with the whole RAG pipeline written in TypeScript, running on a local model.
+**Full-Stack Developer Intern at Nexvia Technologies** · Bengaluru
 
-Before coding full-time I worked in **tech support and IT recruitment**, so I'm used to understanding what people actually need and explaining things clearly. I hold a **B.Tech in Computer Science** and I'm now doing my **MCA**.
+I build **product-focused web apps** with React, Next.js, TypeScript and Supabase, and add AI where it genuinely helps. My strongest project is **Groundwork**: a private RAG assistant that answers from your PDFs and cites the exact page, with retrieval, embeddings and pgvector search written from scratch in TypeScript.
 
-<img src="./assets/stats.svg" alt="6 projects built · 2 live deployments · 384-d vectors in my RAG search · 3 professional roles" width="100%" />
+My path into development runs through two years of **tech support and IT recruitment**. Working with users and hiring teams taught me to turn vague requests into clear requirements, stay calm under pressure, and explain technical work to anyone — and I bring that to every feature I ship.
+
+- 🎯 **Focus** — product UIs · full-stack apps · RAG and AI features
+- 🎓 **Education** — B.Tech CSE · MCA (pursuing, Amity Online)
+
+<img src="./assets/stats.svg" alt="6 projects built · 2 live deployments · 384-d vectors in my RAG search · 4 professional roles" width="100%" />
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -46,31 +51,24 @@ Before coding full-time I worked in **tech support and IT recruitment**, so I'm 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <sub><b>FRONTEND</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,threejs" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Three.js" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg" />
+    <img src="./assets/tech-stack.svg" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite, Three.js. Backend and data: Node.js, FastAPI, Supabase, PostgreSQL, MySQL, SQLite, Python, Java. Tools and deploy: Git, GitHub, GitHub Actions, VS Code, Vercel, Netlify, PowerShell, Bash. Applied AI: Ollama, Transformers.js, pgvector, Claude, n8n; RAG, embeddings, vector search, prompt engineering, grounded answers." width="100%" />
+  </picture>
 </p>
-<p align="center">
-  <sub><b>BACKEND & DATA</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,mysql,sqlite,python,java" alt="Node.js, FastAPI, Supabase, PostgreSQL, MySQL, SQLite, Python, Java" />
-</p>
-<p align="center">
-  <sub><b>TOOLS & DEPLOY</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,powershell,bash" alt="Git, GitHub, GitHub Actions, VS Code, Vercel, Netlify, PowerShell, Bash" />
-</p>
-<p align="center">
-  <sub><b>APPLIED AI</b></sub><br />
-  <img src="https://img.shields.io/badge/RAG-161b22?style=flat-square&logo=databricks&logoColor=7c8cff" alt="RAG" />
-  <img src="https://img.shields.io/badge/pgvector-161b22?style=flat-square&logo=postgresql&logoColor=7c8cff" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Embeddings-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-161b22?style=flat-square&logo=anthropic&logoColor=a78bfa" alt="Prompt Engineering" />
-</p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 📜 Certifications
+
+- 🏅 **[Claude Code 101](https://academy.claude.com/verify/80f7188902bce1437f772a5087e10941)** — Anthropic Academy · 2026
+- 🏅 **[Claude 101](https://academy.claude.com/verify/8bf18b81bd8d56327177dbfdd3f8856d)** — Anthropic Academy · 2026
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🔭 Right now
 
-- 🔨 **Building:** better retrieval, citations and grounded answers in Groundwork; stronger auth and REST APIs across my apps
+- 🔨 **Building:** full-stack features as an intern at Nexvia Technologies; better retrieval, citations and grounded answers in Groundwork; stronger auth and REST APIs across my apps
 - 🌱 **Exploring next:** AI agents and tool calling, n8n workflow automation, CI/CD and cloud deployment
 - 💼 **Looking for:** Frontend, Full-Stack or AI-integrated development roles — Bengaluru or remote
 
@@ -80,13 +78,13 @@ Before coding full-time I worked in **tech support and IT recruitment**, so I'm 
 
 | Role | Where | When |
 | --- | --- | --- |
+| **Full-Stack Developer Intern** | Nexvia Technologies | Oct 2026 – Present |
 | IT Recruiter | BlueRose Technologies | Jul 2026 – Sep 2026 |
 | Associate Staffing Specialist | FirstMeridian Global Services | Sep 2025 – Jul 2026 |
 | CRM / Technical Support | Altruist Technologies | Mar 2024 – Jan 2025 |
 
 - 🎓 **MCA** — Amity University Online (2026 – 2028, pursuing)
 - 🎓 **B.Tech, Computer Science & Engineering** — Pydah College of Engineering & Technology (2017 – 2021)
-- 📜 **Claude 101** — Anthropic Academy (2026)
 
 </details>
 
@@ -100,6 +98,5 @@ I use `Claude Code` · `Cursor` · `OpenAI Codex` · `ChatGPT` for research, deb
 
 <br />
 
-<a href="https://www.linkedin.com/in/adarshpradhan02">
-  <img src="./assets/footer.svg" alt="Thanks for stopping by. Learn, build, test, ship, improve." width="100%" />
-</a>
+<!-- <picture> keeps GitHub from turning the footer into a link -->
+<picture><img src="./assets/footer.svg" alt="Let's build something useful. Open to Frontend and Full-Stack roles · Bengaluru · Remote." width="100%" /></picture>
