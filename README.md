@@ -61,6 +61,7 @@ My path into development runs through two years of **tech support and IT recruit
 
 ## 📜 Certifications
 
+- 🏅 **Claude Code in Action** — Anthropic Academy · 2026
 - 🏅 **[Claude Code 101](https://academy.claude.com/verify/80f7188902bce1437f772a5087e10941)** — Anthropic Academy · 2026
 - 🏅 **[Claude 101](https://academy.claude.com/verify/8bf18b81bd8d56327177dbfdd3f8856d)** — Anthropic Academy · 2026
 
